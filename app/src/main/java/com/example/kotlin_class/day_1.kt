@@ -4,7 +4,7 @@ fun main() {
     println("Hello world");
     println("My name in jamirul islam ")
 
-    var a = 10
+    val a = 10
     val b = 10
     val c =  a+b;
     println("Totel number $c");
@@ -22,9 +22,9 @@ fun main() {
     println("Totel/  $i");
 
 
-    var j = 10
-    var k = 10
-    var l = j % k;
+    val j = 10
+    val k = 10
+    val l = j % k;
 
     println("Modular $l");
 
